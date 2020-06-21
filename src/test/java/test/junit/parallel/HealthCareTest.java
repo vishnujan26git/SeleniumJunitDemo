@@ -1,4 +1,4 @@
-package test.junit.automation.SeleniumWithJunit;
+package test.junit.parallel;
 
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;

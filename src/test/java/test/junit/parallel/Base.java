@@ -1,4 +1,4 @@
-package test.junit.automation.SeleniumWithJunit;
+package test.junit.parallel;
 
 import static io.github.bonigarcia.wdm.config.DriverManagerType.CHROME;
 
